@@ -3,5 +3,5 @@
 - programs
   1. simple inheritance
   2. multiple inheritance
-  3. multilevel inheritance
+  3. multi-level inheritance
   4. hierarchical inheritance          
