@@ -8,7 +8,7 @@ class P
 	}
 }
 
-class Q extends P
+class Q extends P	//subclass extends superclass
 {
 	void Show()
 	{
@@ -16,7 +16,7 @@ class Q extends P
 	}
 }
 
-class R extends P
+class R extends P	//subclass extends superclass
 {
 	void Disp()
 	{
