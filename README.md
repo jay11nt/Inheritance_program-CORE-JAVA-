@@ -1,1 +1,1 @@
-# inheritance_programs (CORE JAVA)
+# Inheritance_programs (CORE JAVA)
