@@ -1,6 +1,6 @@
 package corejava;
 
-class P
+class P								//hierarchy inheritance Example
 {
 	void input()
 	{
