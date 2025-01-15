@@ -25,7 +25,7 @@ public class Inheritance_multiple implements G,H		//class implements interface
 
 	public static void main(String[] args) 
 	{
-		Inheritance_multiple m=new Inheritance_multiple();
+		Inheritance_multiple m = new Inheritance_multiple();		//object of class
 		m.show();
 		m.disp();
     }
