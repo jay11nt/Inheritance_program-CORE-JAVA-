@@ -18,7 +18,7 @@ class m          //super class
 	}
 }
 
-class n extends m     //1st sub class
+class n extends m     
 {
 	void multi()
 	{
