@@ -36,7 +36,7 @@ class n extends m
 	
 }
 
-class o extends n     //2nd sub class
+class o extends n     
 {
 	void rem()
 	{
