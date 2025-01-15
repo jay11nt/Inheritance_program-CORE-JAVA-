@@ -12,7 +12,7 @@ interface H
 
 
 public class Inheritance_multiple implements G,H
-{
+{	@Override
 	public void show()
 	{
 		System.out.println("Interface H");
