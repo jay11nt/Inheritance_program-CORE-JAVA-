@@ -17,7 +17,7 @@ public class Inheritance_multiple implements G,H
 	{
 		System.out.println("Interface H");
 	}
-	
+	@Override
 	public void disp()
 	{
 		System.out.println("Interface G");
