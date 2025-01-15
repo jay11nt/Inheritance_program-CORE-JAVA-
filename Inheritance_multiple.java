@@ -11,7 +11,7 @@ interface H
 }
 
 
-public class Inheritance_multiple implements G,H
+public class Inheritance_multiple implements G,H		//class implements interface
 {	@Override
 	public void show()
 	{
